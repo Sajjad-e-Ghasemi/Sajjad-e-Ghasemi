@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+# SajjadGhasemi
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 <!--
 **Sajjad-e-Ghasemi/Sajjad-e-Ghasemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
